@@ -9,7 +9,7 @@ ma2100, ma2150, ma2450 simulator
 
 ## Overview
 ---
-Starts RTEMS, Loads input image and applies Brightness effect on 3 shaves.
+Starts RTEMS, Loads input image and runs the algorithm in parallels on 12 shaves.
 
 ## Software description
 --- 
